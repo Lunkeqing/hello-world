@@ -1,2 +1,8 @@
 # hello-world
-This is my first repository
+
+Dear readers:
+
+Hi! I reedit this file for my second commmit.
+
+Peace,
+Daniel
